@@ -1,0 +1,47 @@
+/* CSS Rulesets consist of three parts: */
+/* 1: Selector to select what element, class or id that you're styling */
+/* 2: Declaration block where your CSS goes {} */
+/* 3: Declarations of CSS rules inside the declaration block  */
+
+
+
+
+
+.top{
+    text-align: center;
+    color:teal;
+    font-family:monospace;
+    font-size: 20px;
+    padding: 10px;;
+    border-style: ridge;
+    background-color: blanchedalmond;
+    text-decoration: underline overline;
+    text-decoration-style: wavy;
+}
+th {
+    border-style:groove;
+    padding: 15px;
+    border-color:blanchedalmond;
+    font-family:fantasy;
+    font-size: 20px;
+    text-decoration: line-through;
+    text-decoration-color: teal;
+}
+
+td {
+    border-style: ridge;
+    border-color: teal;
+    padding: 15px;
+    border-top: 0ch; 
+    text-decoration: overline;
+    text-decoration-style: dotted;
+    
+}
+
+a {
+    color: black;
+}
+table{
+    background-color:antiquewhite;
+    width: 100%;
+} 
